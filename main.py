@@ -15,7 +15,7 @@ time.sleep(5)
 
 # Paste your copied text here
 text_to_type = """
-This is the text i want to be typed.
+This is the text i want to be typed somewhere.
 """
 
 type_like_human(text_to_type, delay=0.3)  # You can tweak delay speed
