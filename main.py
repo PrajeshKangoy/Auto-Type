@@ -15,7 +15,7 @@ time.sleep(5)
 
 # Paste your copied text here
 text_to_type = """
-My name is ritesh, and i am the don of nepal
+This is the text i want to be typed.
 """
 
 type_like_human(text_to_type, delay=0.3)  # You can tweak delay speed
